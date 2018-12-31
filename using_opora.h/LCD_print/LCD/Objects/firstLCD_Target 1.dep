@@ -1,0 +1,29 @@
+Dependencies for Project 'firstLCD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LCD_b.c)(0x5B6A920A)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcd_b.o --omf_browse .\objects\lcd_b.crf --depend .\objects\lcd_b.d)
+I (font.h)(0x5B6ABBDA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (LCD.h)(0x5B6A9212)
+I (LCD_b.h)(0x5B6A87EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+F (.\LCD.c)(0x5B6AA522)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (opora.h)(0x5B6ADBA1)
+I (core_cm1.h)(0x5B62AC98)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (opora_ext_bus_cntrl_defs.h)(0x4FEB0A56)
+I (opora_rst_clk_defs.h)(0x4D4806D2)
+I (opora_port_defs.h)(0x4EA9543C)
+I (LCD.h)(0x5B6A9212)
+F (.\Startup.s)(0x4EBA4B5E)(--cpu Cortex-M0 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "ARMCM0 SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\LCDMain.c)(0x5B6ABBDA)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcdmain.o --omf_browse .\objects\lcdmain.crf --depend .\objects\lcdmain.d)
+I (opora.h)(0x5B6ADBA1)
+I (core_cm1.h)(0x5B62AC98)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (opora_ext_bus_cntrl_defs.h)(0x4FEB0A56)
+I (opora_rst_clk_defs.h)(0x4D4806D2)
+I (opora_port_defs.h)(0x4EA9543C)
+I (config.h)(0x4FFBEF66)
+I (LCD.h)(0x5B6A9212)
+I (LCD_b.h)(0x5B6A87EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)

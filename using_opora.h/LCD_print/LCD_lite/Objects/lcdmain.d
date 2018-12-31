@@ -1,0 +1,12 @@
+.\objects\lcdmain.o: LCDMain.c
+.\objects\lcdmain.o: opora.h
+.\objects\lcdmain.o: core_cm1.h
+.\objects\lcdmain.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcdmain.o: opora_ext_bus_cntrl_defs.h
+.\objects\lcdmain.o: opora_rst_clk_defs.h
+.\objects\lcdmain.o: opora_port_defs.h
+.\objects\lcdmain.o: config.h
+.\objects\lcdmain.o: LCD.h
+.\objects\lcdmain.o: LCD_b.h
+.\objects\lcdmain.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\lcdmain.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

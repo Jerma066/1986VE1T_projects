@@ -1,0 +1,11 @@
+--cpu Cortex-M1
+".\objects\lcdgraphic.o"
+".\objects\lcdgmain.o"
+".\objects\lcd.o"
+".\objects\config.o"
+".\objects\startup_armcm1.o"
+".\objects\system_armcm1.o"
+--strict --scatter ".\Objects\LCD_draw.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LCD_draw.map" -o .\Objects\LCD_draw.axf

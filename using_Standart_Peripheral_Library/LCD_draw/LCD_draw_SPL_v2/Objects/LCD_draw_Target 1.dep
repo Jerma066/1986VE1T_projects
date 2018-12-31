@@ -1,0 +1,113 @@
+Dependencies for Project 'LCD_draw', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LCDGraphic.c)(0x5BA34DF4)(--c99 -c --cpu Cortex-M1 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\LCD_draw-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM1-o .\objects\lcdgraphic.o --omf_browse .\objects\lcdgraphic.crf --depend .\objects\lcdgraphic.d)
+I (LCDGraphic.h)(0x5B6D6036)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (LCD.h)(0x5BA34DDA)
+I (generic.h)(0x5BA357FB)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x4E522A84)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+F (.\LCDGMain.c)(0x5BA3A22D)(--c99 -c --cpu Cortex-M1 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\LCD_draw-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM1-o .\objects\lcdgmain.o --omf_browse .\objects\lcdgmain.crf --depend .\objects\lcdgmain.d)
+I (config.h)(0x50113D86)
+I (LCD.h)(0x5BA34DDA)
+I (generic.h)(0x5BA357FB)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x4E522A84)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+I (LCDGraphic.h)(0x5B6D6036)
+F (.\LCD.c)(0x5BAC9CA7)(--c99 -c --cpu Cortex-M1 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\LCD_draw-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM1-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (LCD.h)(0x5BA34DDA)
+I (generic.h)(0x5BA357FB)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x4E522A84)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+F (.\Config.c)(0x5BA34E52)(--c99 -c --cpu Cortex-M1 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\LCD_draw-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM1-o .\objects\config.o --omf_browse .\objects\config.crf --depend .\objects\config.d)
+I (config.h)(0x50113D86)
+I (generic.h)(0x5BA357FB)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x4E522A84)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+F (RTE\Device\ARMCM1\startup_ARMCM1.s)(0x5B61B6D6)(--cpu Cortex-M1 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "ARMCM1 SETA 1"--list .\listings\startup_armcm1.lst --xref -o .\objects\startup_armcm1.o --depend .\objects\startup_armcm1.d)
+F (RTE\Device\ARMCM1\system_ARMCM1.c)(0x5B61B6D6)(--c99 -c --cpu Cortex-M1 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I ..\LCD_draw-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM1-o .\objects\system_armcm1.o --omf_browse .\objects\system_armcm1.crf --depend .\objects\system_armcm1.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include\ARMCM1.h)(0x5B61B6D6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm1.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F84E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B588A16)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM1\Include\system_ARMCM1.h)(0x5B61B6D6)

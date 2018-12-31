@@ -1,0 +1,82 @@
+Dependencies for Project 'firstLCD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LCD_b.c)(0x5BA35B93)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcd_b.o --omf_browse .\objects\lcd_b.crf --depend .\objects\lcd_b.d)
+I (font.h)(0x5B6ABBDA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (LCD.h)(0x5BA33DDC)
+I (generic.h)(0x5BA357B0)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x5B62AC98)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+I (LCD_b.h)(0x5BA35B7D)
+F (.\LCD.c)(0x5BAC9CA7)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (LCD.h)(0x5BA33DDC)
+I (generic.h)(0x5BA357B0)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x5B62AC98)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+I (font.h)(0x5B6ABBDA)
+F (.\Startup.s)(0x4EBA4B5E)(--cpu Cortex-M0 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "ARMCM0 SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\LCDMain.c)(0x5BD193B6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM0\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DARMCM0-o .\objects\lcdmain.o --omf_browse .\objects\lcdmain.crf --depend .\objects\lcdmain.d)
+I (LCD.h)(0x5BA33DDC)
+I (generic.h)(0x5BA357B0)
+I (MDR32F9Qx_config.h)(0x5BA34516)
+I (MDR32F9Qx_lib.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B62AC87)
+I (MDR1986VE1T.h)(0x542BE8B2)
+I (core_cm1.h)(0x5B62AC98)
+I (system_MDR1986VE1T.h)(0x542BE8B2)
+I (MDR32F9Qx_rst_clk.h)(0x542BE8B2)
+I (MDR32F9Qx_port.h)(0x542BE8B2)
+I (MDR32F9Qx_adc.h)(0x542BE8B2)
+I (MDR32F9Qx_bkp.h)(0x542BE8B2)
+I (MDR32F9Qx_can.h)(0x542BE8B2)
+I (MDR32F9Qx_dac.h)(0x542BE8B2)
+I (MDR32F9Qx_dma.h)(0x542BE8B2)
+I (MDR32F9Qx_i2c.h)(0x542BE8B2)
+I (MDR32F9Qx_iwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ssp.h)(0x542BE8B2)
+I (MDR32F9Qx_timer.h)(0x542BE8B2)
+I (MDR32F9Qx_uart.h)(0x542BE8B2)
+I (MDR32F9Qx_wwdg.h)(0x542BE8B2)
+I (MDR32F9Qx_ebc.h)(0x542BE8B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+I (font.h)(0x5B6ABBDA)
+I (LCD_b.h)(0x5BA35B7D)
