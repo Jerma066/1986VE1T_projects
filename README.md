@@ -1,2 +1,2 @@
 # 1986VE1T_projects
-The work I have done in Milandr
+Программы по работе с тестовой платой микроконтроллерв 1986VE1T.
